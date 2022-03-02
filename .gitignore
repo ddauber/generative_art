@@ -2,5 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+**.DS_Store
 /00_ideas
 **/00_render
